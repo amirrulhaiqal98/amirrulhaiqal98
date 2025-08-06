@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrulhaiqal98&label=Profile%20views&color=0e75b6&style=flat" alt="amirrulhaiqal98" /> </p>
 
-- 🔭 I’m currently working on *MMOS System**
+- 🔭 I’m currently working on **MMOS System**
 
 - 🌱 I’m currently learning **CodeIgniter, Laravel**
 
